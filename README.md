@@ -51,3 +51,5 @@ The total reward, overall win rate, and the counts of exploration and exploitati
 The plotted graph shows how the win rate evolves over time, allowing you to visualize the effectiveness of the epsilon-greedy strategy in identifying the best-performing arm.
 Conclusion
 This implementation of the multi-armed bandit problem using the epsilon-greedy strategy demonstrates a fundamental concept in reinforcement learning. It effectively balances exploration and exploitation, helping the agent learn and adapt its strategy based on the observed rewards.
+
+![Alt text](https://raw.githubusercontent.com/bitajalali/multi-armed-bandit-epsilon-greedy/refs/heads/main/Epsilon-Greedy.PNG)
